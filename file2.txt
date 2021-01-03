@@ -1,12 +1,4 @@
 a = 10
 b = 20
-<<<<<<< HEAD
-<<<<<<< HEAD
 c = 30
-=======
-print a+b;
->>>>>>> new
-=======
-print a+b;
-z
->>>>>>> new
+print a+b
